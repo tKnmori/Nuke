@@ -35,7 +35,7 @@
 void usage(const char* progname);
 void version(const char* progname);
 
-/* testdayo */
+/* testdayo 001 */
 int main(int argc, char** argv)
 {
     if (argc < 2) {
